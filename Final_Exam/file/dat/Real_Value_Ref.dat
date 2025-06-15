@@ -1,0 +1,17 @@
+// real part
+parameter signed [31:0] W0_REAL   = 32'h00010000 ;    //16.16
+parameter signed [31:0] W1_REAL   = 32'h0000FB15 ;
+parameter signed [31:0] W2_REAL   = 32'h0000EC83 ;   
+parameter signed [31:0] W3_REAL   = 32'h0000D4DB ;
+parameter signed [31:0] W4_REAL   = 32'h0000B504 ;    
+parameter signed [31:0] W5_REAL   = 32'h00008E3A ;
+parameter signed [31:0] W6_REAL   = 32'h000061F7 ;    
+parameter signed [31:0] W7_REAL   = 32'h000031F1 ;
+parameter signed [31:0] W8_REAL   = 32'h00000000 ;   
+parameter signed [31:0] W9_REAL   = 32'hFFFFCE0F ;
+parameter signed [31:0] W10_REAL  = 32'hFFFF9E09 ;    
+parameter signed [31:0] W11_REAL  = 32'hFFFF71C6 ;
+parameter signed [31:0] W12_REAL  = 32'hFFFF4AFC ;     
+parameter signed [31:0] W13_REAL  = 32'hFFFF2B25 ;
+parameter signed [31:0] W14_REAL  = 32'hFFFF137D ;  
+parameter signed [31:0] W15_REAL  = 32'hFFFF04EB ;

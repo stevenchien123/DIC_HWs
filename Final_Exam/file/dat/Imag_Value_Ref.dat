@@ -1,0 +1,17 @@
+// imag part
+parameter signed [31:0] W0_IMAG   = 32'h00000000 ;    //16.16
+parameter signed [31:0] W1_IMAG   = 32'hFFFFCE0F ;     
+parameter signed [31:0] W2_IMAG   = 32'hFFFF9E09 ;     
+parameter signed [31:0] W3_IMAG   = 32'hFFFF71C6 ;     
+parameter signed [31:0] W4_IMAG   = 32'hFFFF4AFC ;     
+parameter signed [31:0] W5_IMAG   = 32'hFFFF2B25 ;     
+parameter signed [31:0] W6_IMAG   = 32'hFFFF137D ;     
+parameter signed [31:0] W7_IMAG   = 32'hFFFF04EB ;   
+parameter signed [31:0] W8_IMAG   = 32'hFFFF0000 ;     
+parameter signed [31:0] W9_IMAG   = 32'hFFFF04EB ;     
+parameter signed [31:0] W10_IMAG  = 32'hFFFF137D ;     
+parameter signed [31:0] W11_IMAG  = 32'hFFFF2B25 ;     
+parameter signed [31:0] W12_IMAG  = 32'hFFFF4AFC ;     
+parameter signed [31:0] W13_IMAG  = 32'hFFFF71C6 ;     
+parameter signed [31:0] W14_IMAG  = 32'hFFFF9E09 ;  
+parameter signed [31:0] W15_IMAG  = 32'hFFFFCE0F ; 

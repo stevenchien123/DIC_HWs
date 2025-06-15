@@ -1,0 +1,32 @@
+3 // Shift Left
+3 // Shift Left
+1 // Shift Up
+7 // Average
+4 // Shift Right
+8 // White
+4 // Shift Right
+2 // Shift Down
+a // Rotate
+1 // Shift Up
+6 // Min
+3 // Shift Left
+2 // Shift Down
+a // Rotate
+2 // Shift Down
+6 // Min
+3 // Shift Left
+1 // Shift Up
+a // Rotate
+2 // Shift Down
+4 // Shift Right
+a // Rotate
+2 // Shift Down
+4 // Shift Right
+5 // Max
+3 // Shift Left
+9 // Black
+1 // Shift Up
+0 // Write
+4 // Shift Right
+7 // Average
+f // Finish
